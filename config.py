@@ -68,6 +68,7 @@ LANGUAGES = {
 }
 
 LANGUAGES_TO_CODE = {
+    "en_US": "en",
     "English": "en",
     "Simplified Chinese": "zh",
     "Traditional Chinese": "zh-hk",
